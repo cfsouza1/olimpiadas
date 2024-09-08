@@ -1,4 +1,4 @@
-## Encontrando os craques do esporte!
+## Encontrando os craques do esporte! - Imersão Dev com Google Gemini
 
 **O que essa aplicação faz?**
 
